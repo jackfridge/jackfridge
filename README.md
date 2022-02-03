@@ -10,15 +10,6 @@ My background in medicine has helped me tremendously in establishing a solid fou
 for being able to self-teach effectively and I will no doubt apply these skills to keep learning
 and improve as a developer.
 
-I'm a CS50 graduate, Harvard's free online course "Introduction to computer science and programming".
-This course taught me the basics of logic in C, as well as basics of web programming with HTML/CSS, 
-Javascript, SQL and Python through the use of the Flask framework to create simple web pages and
-interactive web apps. Most importantly though, CS50 taught me how to think like a programmer.
-This course will always be special to me, because after three years of not knowing if medical 
-school was the right decision, it barely took a week of CS50 to convince me that software development
-was the career path for me. I've been through many "back-and-forth" decisions on what I want to do 
-with my life, but it's a nice feeling to have finally found it.
-
 <!---
 jackfridge/jackfridge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
